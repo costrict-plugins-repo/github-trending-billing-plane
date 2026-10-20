@@ -1,0 +1,24 @@
+{
+  "name": "billingplane",
+  "version": "1.0.0",
+  "description": "Guardrails-first Stripe billing integration. Audit existing billing code, discover requirements, implement bulletproof billing, and validate edge cases. Zero runtime dependencies — knowledge stays in your codebase.",
+  "author": {
+    "name": "Kamesh",
+    "url": "https://billingplane.com"
+  },
+  "repository": "https://github.com/kamesh/billingplane",
+  "homepage": "https://billingplane.com",
+  "license": "MIT",
+  "keywords": [
+    "stripe",
+    "billing",
+    "payments",
+    "subscriptions",
+    "webhooks",
+    "saas",
+    "pricing",
+    "checkout",
+    "entitlements",
+    "guardrails"
+  ]
+}
